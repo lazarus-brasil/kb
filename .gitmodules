@@ -1,6 +1,0 @@
-[submodule "kb/themes/geekdoc"]
-	path = kb/themes/geekdoc
-	url = https://github.com/thegeeklab/hugo-geekdoc
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
