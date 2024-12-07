@@ -1,0 +1,4 @@
+baseURL = 'https://lazarus-brasil.github.io/'
+languageCode = 'en-us'
+title = 'Lazarus Brasil Knowledge Base'
+theme = 'geekdoc'
